@@ -36,7 +36,7 @@ export default function Pricing() {
                 <h3 className="font-display text-lg md:text-2xl text-zinc-400 uppercase tracking-widest">Mensal</h3>
                 <div className="mt-4 flex items-baseline justify-center gap-1">
                     <span className="text-zinc-500 line-through text-base md:text-lg">R$ 49,90</span>
-                    <span className="text-3xl md:text-4xl font-bold text-white">R$ 17,00</span>
+                    <span className="text-3xl md:text-4xl font-bold text-white">R$ 17,90</span>
                 </div>
                 <p className="text-zinc-500 text-xs md:text-sm mt-2">Renovação mensal automática</p>
             </div>
@@ -48,9 +48,11 @@ export default function Pricing() {
                 <li className="flex gap-3 items-center"><Check className="text-zinc-600 w-5 h-5 shrink-0" /> Acesso por 30 dias</li>
             </ul>
 
+            <a href="https://t.me/T1TANVault_bot" target="_blank" rel="noopener noreferrer" className="block">
             <Button variant="outline" className="w-full h-11 md:h-12 border-zinc-700 hover:bg-zinc-800 text-white font-bold rounded-xl mt-2">
                 Assinar Mensal
             </Button>
+            </a>
           </motion.div>
 
           {/* --- PLANO VITALÍCIO --- */}
@@ -83,7 +85,7 @@ export default function Pricing() {
             </ul>
 
             <div className="space-y-3 mt-2 md:mt-4">
-                <a href="https://pay.cakto.com.br/sr35huo" target="_blank" rel="noopener noreferrer" className="block">
+                <a href="https://t.me/T1TANVault_bot" target="_blank" rel="noopener noreferrer" className="block">
                     <Button size="lg" className="w-full h-12 md:h-14 bg-primary text-black text-base md:text-lg font-bold rounded-xl shadow-[0_0_20px_rgba(34,197,94,0.4)] hover:shadow-[0_0_30px_rgba(34,197,94,0.6)] transition-all">
                         GARANTIR ACESSO AGORA
                     </Button>

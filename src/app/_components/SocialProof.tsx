@@ -116,7 +116,7 @@ export default function SocialProof() {
                  </p>
                  
                  <div className="w-full md:w-auto">
-                    <a href="https://pay.cakto.com.br/sr35huo" target="_blank" rel="noopener noreferrer" className="block w-full md:w-auto">
+                    <a href="https://t.me/T1TANVault_bot" target="_blank" rel="noopener noreferrer" className="block w-full md:w-auto">
                        <Button size="lg" className="w-full md:w-auto bg-primary mt-2 md:mt-6 text-black font-bold rounded-full text-base md:text-lg px-8 shadow-[0_0_20px_rgba(34,197,94,0.4)] hover:scale-105 transition-transform">
                          GARANTIR ACESSO AGORA <ArrowRight className="ml-2 w-5 h-5" />
                        </Button>

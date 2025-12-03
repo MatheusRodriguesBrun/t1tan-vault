@@ -63,7 +63,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center lg:justify-start">
             {/* LINK DE CHECKOUT CAKTO ADICIONADO */}
-            <a href="https://pay.cakto.com.br/sr35huo" target="_blank" rel="noopener noreferrer">
+            <a href="https://t.me/T1TANVault_bot" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" className="h-12 md:h-14 px-8 text-base rounded-xl bg-primary text-black font-bold tracking-tight shadow-[0_0_30px_-5px_rgba(34,197,94,0.5)] hover:scale-105 transition-all duration-300 hover:shadow-[0_0_50px_-10px_rgba(34,197,94,0.7)]">
                   ACESSAR O VAULT <ArrowRight className="ml-2 w-5 h-5" />
                 </Button>
